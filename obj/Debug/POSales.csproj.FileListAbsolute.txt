@@ -1,0 +1,245 @@
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\bin\Debug\POSales.exe.config
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\bin\Debug\POSales.exe
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\bin\Debug\POSales.pdb
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.csproj.AssemblyReference.cache
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.MainForm.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.Properties.Resources.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.csproj.GenerateResource.cache
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.exe
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.pdb
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.Brand.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.BrandModule.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.CategoryModule.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.Category.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.Product.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.ProductModule.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\bin\Debug\MetroFramework.dll
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.csproj.Up2Date
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\bin\Debug\MetroFramework.Design.dll
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.Supplier.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.SupplierModule.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.UserAccount.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.Cashier.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.Qty.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.SearchProduct.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.ProductStockIn.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.StockIn.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.Discount.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.Settle.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.DailySale.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.CancelOrder.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.Void.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.ChangePassword.resources
+C:\Users\peter\OneDrive\Desktop\Supermarket Project\Supermarket\POSales\obj\Debug\POSales.Store.resources
+C:\Supermarket\POSales\bin\Debug\POSales.exe.config
+C:\Supermarket\POSales\bin\Debug\POSales.exe
+C:\Supermarket\POSales\bin\Debug\POSales.pdb
+C:\Supermarket\POSales\bin\Debug\MetroFramework.Design.dll
+C:\Supermarket\POSales\bin\Debug\MetroFramework.dll
+C:\Supermarket\POSales\bin\Debug\MetroFramework.Fonts.dll
+C:\Supermarket\POSales\obj\Debug\POSales.csproj.AssemblyReference.cache
+C:\Supermarket\POSales\obj\Debug\POSales.csproj.SuggestedBindingRedirects.cache
+C:\Supermarket\POSales\obj\Debug\POSales.Brand.resources
+C:\Supermarket\POSales\obj\Debug\POSales.BrandModule.resources
+C:\Supermarket\POSales\obj\Debug\POSales.CancelOrder.resources
+C:\Supermarket\POSales\obj\Debug\POSales.Cashier.resources
+C:\Supermarket\POSales\obj\Debug\POSales.CategoryModule.resources
+C:\Supermarket\POSales\obj\Debug\POSales.Category.resources
+C:\Supermarket\POSales\obj\Debug\POSales.ChangePassword.resources
+C:\Supermarket\POSales\obj\Debug\POSales.DailySale.resources
+C:\Supermarket\POSales\obj\Debug\POSales.Discount.resources
+C:\Supermarket\POSales\obj\Debug\POSales.MainForm.resources
+C:\Supermarket\POSales\obj\Debug\POSales.Product.resources
+C:\Supermarket\POSales\obj\Debug\POSales.ProductModule.resources
+C:\Supermarket\POSales\obj\Debug\POSales.ProductStockIn.resources
+C:\Supermarket\POSales\obj\Debug\POSales.Properties.Resources.resources
+C:\Supermarket\POSales\obj\Debug\POSales.Qty.resources
+C:\Supermarket\POSales\obj\Debug\POSales.SearchProduct.resources
+C:\Supermarket\POSales\obj\Debug\POSales.Settle.resources
+C:\Supermarket\POSales\obj\Debug\POSales.Store.resources
+C:\Supermarket\POSales\obj\Debug\POSales.Supplier.resources
+C:\Supermarket\POSales\obj\Debug\POSales.SupplierModule.resources
+C:\Supermarket\POSales\obj\Debug\POSales.UserAccount.resources
+C:\Supermarket\POSales\obj\Debug\POSales.Void.resources
+C:\Supermarket\POSales\obj\Debug\POSales.csproj.GenerateResource.cache
+C:\Supermarket\POSales\obj\Debug\POSales.csproj.CoreCompileInputs.cache
+C:\Supermarket\POSales\obj\Debug\POSales.csproj.CopyComplete
+C:\Supermarket\POSales\obj\Debug\POSales.exe
+C:\Supermarket\POSales\obj\Debug\POSales.pdb
+C:\Supermarket\POSales\bin\Debug\Guna.UI2.dll
+C:\Supermarket\POSales\obj\Debug\POSales.DangNhap.resources
+C:\Supermarket\POSales\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Supermarket\POSales\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Supermarket\POSales\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Supermarket\POSales\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Supermarket\POSales\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Supermarket\POSales\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Supermarket\POSales\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Supermarket\POSales\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Supermarket\POSales\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Supermarket\POSales\bin\Debug\EnvDTE.dll
+C:\Supermarket\POSales\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Supermarket\POSales\bin\Debug\stdole.dll
+C:\Supermarket\POSales\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Supermarket\POSales\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Supermarket\POSales\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Supermarket\POSales\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Supermarket\POSales\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Supermarket\POSales\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Supermarket\POSales\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Supermarket\POSales\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Supermarket\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Supermarket\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Supermarket\POSales\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Supermarket\POSales\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Supermarket\POSales\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Supermarket\POSales\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Supermarket\POSales\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Supermarket\POSales\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Supermarket\POSales\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Supermarket\POSales\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Supermarket\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Supermarket\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Supermarket\POSales\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Supermarket\POSales\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Supermarket\POSales\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Supermarket\POSales\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Supermarket\POSales\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Supermarket\POSales\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Supermarket\POSales\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Supermarket\POSales\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Supermarket\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Supermarket\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Supermarket\POSales\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Supermarket\POSales\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Supermarket\POSales\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Supermarket\POSales\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Supermarket\POSales\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Supermarket\POSales\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Supermarket\POSales\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Supermarket\POSales\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Supermarket\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Supermarket\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Supermarket\POSales\obj\Debug\POSales.ResetPassword.resources
+C:\Supermarket\POSales\obj\Debug\POSales.UserProperties.resources
+C:\Supermarket\POSales\obj\Debug\POSales.Receipt.resources
+C:\Supermarket\POSales\obj\Debug\POSales.Adjustment.resources
+C:\Supermarket\POSales\obj\Debug\POSales.POSReport.resources
+C:\Supermarket\POSales\obj\Debug\POSales.Record.resources
+C:\Supermarket\POSales\obj\Debug\POSales.InStock.resources
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\POSales.exe.config
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\POSales.exe
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\POSales.pdb
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\Guna.UI2.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\MetroFramework.Design.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\MetroFramework.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\EnvDTE.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.csproj.AssemblyReference.cache
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Adjustment.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Brand.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.BrandModule.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.CancelOrder.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Cashier.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.CategoryModule.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Category.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.ChangePassword.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.DangNhap.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Discount.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.MainForm.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.InStock.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.POSReport.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Product.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.ProductModule.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.ProductStockIn.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Properties.Resources.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Qty.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Receipt.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Record.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.ResetPassword.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.SearchProduct.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Settle.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Store.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Supplier.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.SupplierModule.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.UserAccount.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.UserProperties.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Void.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.csproj.GenerateResource.cache
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.csproj.CoreCompileInputs.cache
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.csproj.Up2Date
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.exe
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.pdb
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.InStock_Qty.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Dashboard.resources
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\bin\Debug\Reports\rpTopSelling.rdlc
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\rpTopSelling.rdlc
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.DangKy.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Alert.resources
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.DailySale.resources
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Barcode.resources
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\AForge.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\AForge.Video.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\zxing.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\zxing.presentation.dll
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\AForge.xml
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\AForge.Video.xml
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\zxing.xml
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\zxing.presentation.xml
+C:\Users\peter\Downloads\Supermarket\POSales\bin\Debug\DarrenLee.Media.dll
+C:\Users\peter\Downloads\Supermarket\POSales\obj\Debug\POSales.Product_Qty.resources
