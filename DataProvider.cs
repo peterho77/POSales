@@ -16,7 +16,7 @@ namespace POSales
         static private string connectionstr;
         static public string myConnection()
         {
-            connectionstr = @"Data Source=PETER-LAPTOP\SQLEXPRESS;Initial Catalog=Supermarket_Management;Integrated Security=True";
+            connectionstr = @"Data Source=LAPTOP-99SD070M\CHITRONG;Initial Catalog=Supermarket_Management;Integrated Security=True";
             return connectionstr; 
         }
         public SqlConnection GetSqlConnection()
